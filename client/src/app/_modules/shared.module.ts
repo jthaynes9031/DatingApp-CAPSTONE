@@ -20,7 +20,8 @@ import { NgxGalleryModule } from '@kolkov/ngx-gallery';
   exports: [
     BsDropdownModule,
     ToastrModule,
-    TabsModule
+    TabsModule,
+    NgxGalleryModule
   ]
 })
 export class SharedModule { }
